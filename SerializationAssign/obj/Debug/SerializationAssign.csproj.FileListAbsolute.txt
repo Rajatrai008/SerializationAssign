@@ -1,0 +1,7 @@
+E:\DotNetBatch2021\ConsoleAssignments\SerializationAssign\SerializationAssign\bin\Debug\SerializationAssign.exe.config
+E:\DotNetBatch2021\ConsoleAssignments\SerializationAssign\SerializationAssign\bin\Debug\SerializationAssign.exe
+E:\DotNetBatch2021\ConsoleAssignments\SerializationAssign\SerializationAssign\bin\Debug\SerializationAssign.pdb
+E:\DotNetBatch2021\ConsoleAssignments\SerializationAssign\SerializationAssign\obj\Debug\SerializationAssign.csprojAssemblyReference.cache
+E:\DotNetBatch2021\ConsoleAssignments\SerializationAssign\SerializationAssign\obj\Debug\SerializationAssign.csproj.CoreCompileInputs.cache
+E:\DotNetBatch2021\ConsoleAssignments\SerializationAssign\SerializationAssign\obj\Debug\SerializationAssign.exe
+E:\DotNetBatch2021\ConsoleAssignments\SerializationAssign\SerializationAssign\obj\Debug\SerializationAssign.pdb
